@@ -1,0 +1,26 @@
+{
+  "name": "automation_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test-api:zippo": "BRAND=zippo npx playwright test index.spec.js",
+    "test-api:sin": "BRAND=sin npx playwright test index.spec.js",
+    "test-api:phattai": "BRAND=phattai npx playwright test index.spec.js",
+    "test-api:dubai": "BRAND=dubai npx playwright test index.spec.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.29.2"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "fs": "^0.0.1-security",
+    "moment": "^2.29.4",
+    "path": "^0.12.7",
+    "pino": "^8.6.0",
+    "pino-pretty": "^9.1.1"
+  }
+}
