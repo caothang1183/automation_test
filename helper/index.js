@@ -8,7 +8,9 @@ const setupBrandURL = () => {
 };
 
 const setCookie = (response) => {
-  process.env["COOKIE"] = response.headers()["set-cookie"];
+  const cookie = response.headers()["set-cookie"];
+  process.env["COOKIE"] = cookie;
+  return cookie;
 };
 
 const countProperties = (data) => Object.keys(data).length;

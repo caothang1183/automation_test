@@ -31,7 +31,7 @@ const USER_PROPERTY = [
   "is_change_username",
   "username_new",
   "balance",
-  "balanceSub","1"
+  "balanceSub"
 ];
 
 module.exports = {

@@ -1,0 +1,67 @@
+{"level":50,"time":1675308997375,"pid":66041,"hostname":"Aidans-MacBook-Pro.local","msg":"❌ [API] LOGIN did not run as expected!"}
+{"level":50,"time":1675308998188,"pid":66050,"hostname":"Aidans-MacBook-Pro.local","msg":"❌ [API] REFRESH  did not run as expected!"}
+{"level":50,"time":1675308999057,"pid":66063,"hostname":"Aidans-MacBook-Pro.local","msg":"❌ [API] LOGIN FAILED did not run as expected!"}
+{"level":30,"time":1675308999910,"pid":66077,"hostname":"Aidans-MacBook-Pro.local","msg":"✅ [API] LOGIN FAILED USER NOT EXIST did run as expected!"}
+{"level":50,"time":1675309144789,"pid":66343,"hostname":"Aidans-MacBook-Pro.local","msg":"❌ [API] LOGIN did not run as expected!"}
+{"level":50,"time":1675309145461,"pid":66345,"hostname":"Aidans-MacBook-Pro.local","msg":"❌ [API] REFRESH  did not run as expected!"}
+{"level":50,"time":1675309146636,"pid":66347,"hostname":"Aidans-MacBook-Pro.local","msg":"❌ [API] LOGIN FAILED did not run as expected!"}
+{"level":30,"time":1675309147328,"pid":66363,"hostname":"Aidans-MacBook-Pro.local","msg":"✅ [API] LOGIN FAILED USER NOT EXIST did run as expected!"}
+{"level":50,"time":1675309173857,"pid":66416,"hostname":"Aidans-MacBook-Pro.local","msg":"❌ [API] LOGIN did not run as expected!"}
+{"level":50,"time":1675309174564,"pid":66421,"hostname":"Aidans-MacBook-Pro.local","msg":"❌ [API] REFRESH  did not run as expected!"}
+{"level":50,"time":1675309175279,"pid":66423,"hostname":"Aidans-MacBook-Pro.local","msg":"❌ [API] LOGIN FAILED did not run as expected!"}
+{"level":30,"time":1675309175974,"pid":66425,"hostname":"Aidans-MacBook-Pro.local","msg":"✅ [API] LOGIN FAILED USER NOT EXIST did run as expected!"}
+{"level":50,"time":1675309209070,"pid":66469,"hostname":"Aidans-MacBook-Pro.local","msg":"❌ [API] LOGIN did not run as expected!"}
+{"level":50,"time":1675309210495,"pid":66471,"hostname":"Aidans-MacBook-Pro.local","msg":"❌ [API] REFRESH  did not run as expected!"}
+{"level":50,"time":1675309211391,"pid":66475,"hostname":"Aidans-MacBook-Pro.local","msg":"❌ [API] LOGIN FAILED did not run as expected!"}
+{"level":30,"time":1675309212152,"pid":66483,"hostname":"Aidans-MacBook-Pro.local","msg":"✅ [API] LOGIN FAILED USER NOT EXIST did run as expected!"}
+{"level":30,"time":1675309228563,"pid":66526,"hostname":"Aidans-MacBook-Pro.local","msg":"✅ [API] LOGIN did run as expected!"}
+{"level":50,"time":1675309228889,"pid":66526,"hostname":"Aidans-MacBook-Pro.local","msg":"❌ [API] REFRESH  did not run as expected!"}
+{"level":50,"time":1675309229652,"pid":66530,"hostname":"Aidans-MacBook-Pro.local","msg":"❌ [API] LOGIN FAILED did not run as expected!"}
+{"level":30,"time":1675309230436,"pid":66532,"hostname":"Aidans-MacBook-Pro.local","msg":"✅ [API] LOGIN FAILED USER NOT EXIST did run as expected!"}
+{"level":30,"time":1675309262147,"pid":66603,"hostname":"Aidans-MacBook-Pro.local","msg":"✅ [API] LOGIN did run as expected!"}
+{"level":50,"time":1675309262517,"pid":66603,"hostname":"Aidans-MacBook-Pro.local","msg":"❌ [API] REFRESH  did not run as expected!"}
+{"level":50,"time":1675309263501,"pid":66607,"hostname":"Aidans-MacBook-Pro.local","msg":"❌ [API] LOGIN FAILED did not run as expected!"}
+{"level":30,"time":1675309264232,"pid":66609,"hostname":"Aidans-MacBook-Pro.local","msg":"✅ [API] LOGIN FAILED USER NOT EXIST did run as expected!"}
+{"level":50,"time":1675309343968,"pid":66718,"hostname":"Aidans-MacBook-Pro.local","msg":"❌ [API] LOGIN did not run as expected!"}
+{"level":50,"time":1675309344738,"pid":66721,"hostname":"Aidans-MacBook-Pro.local","msg":"❌ [API] REFRESH  did not run as expected!"}
+{"level":50,"time":1675309345487,"pid":66723,"hostname":"Aidans-MacBook-Pro.local","msg":"❌ [API] LOGIN FAILED did not run as expected!"}
+{"level":30,"time":1675309346289,"pid":66725,"hostname":"Aidans-MacBook-Pro.local","msg":"✅ [API] LOGIN FAILED USER NOT EXIST did run as expected!"}
+{"level":30,"time":1675309381974,"pid":66789,"hostname":"Aidans-MacBook-Pro.local","msg":"✅ [API] LOGIN did run as expected!"}
+{"level":50,"time":1675309382220,"pid":66789,"hostname":"Aidans-MacBook-Pro.local","msg":"❌ [API] REFRESH  did not run as expected!"}
+{"level":50,"time":1675309382897,"pid":66795,"hostname":"Aidans-MacBook-Pro.local","msg":"❌ [API] LOGIN FAILED did not run as expected!"}
+{"level":30,"time":1675309383626,"pid":66797,"hostname":"Aidans-MacBook-Pro.local","msg":"✅ [API] LOGIN FAILED USER NOT EXIST did run as expected!"}
+{"level":30,"time":1675311639782,"pid":68036,"hostname":"Aidans-MacBook-Pro.local","msg":"✅ [API] LOGIN did run as expected!"}
+{"level":50,"time":1675311640062,"pid":68036,"hostname":"Aidans-MacBook-Pro.local","msg":"❌ [API] REFRESH  did not run as expected!"}
+{"level":50,"time":1675311640823,"pid":68038,"hostname":"Aidans-MacBook-Pro.local","msg":"❌ [API] LOGIN FAILED did not run as expected!"}
+{"level":30,"time":1675311641482,"pid":68042,"hostname":"Aidans-MacBook-Pro.local","msg":"✅ [API] LOGIN FAILED USER NOT EXIST did run as expected!"}
+{"level":50,"time":1675311925580,"pid":68318,"hostname":"Aidans-MacBook-Pro.local","msg":"❌ ACCOUNT TESTING did not run as expected!"}
+{"level":30,"time":1675312217482,"pid":68613,"hostname":"Aidans-MacBook-Pro.local","msg":"✅ [API] LOGIN did run as expected!"}
+{"level":50,"time":1675312217776,"pid":68613,"hostname":"Aidans-MacBook-Pro.local","msg":"❌ [API] REFRESH  did not run as expected!"}
+{"level":50,"time":1675312218602,"pid":68618,"hostname":"Aidans-MacBook-Pro.local","msg":"❌ [API] LOGIN FAILED did not run as expected!"}
+{"level":30,"time":1675312219480,"pid":68620,"hostname":"Aidans-MacBook-Pro.local","msg":"✅ [API] LOGIN FAILED USER NOT EXIST did run as expected!"}
+{"level":50,"time":1675312226430,"pid":68660,"hostname":"Aidans-MacBook-Pro.local","msg":"❌ [API] LOGIN did not run as expected!"}
+{"level":50,"time":1675312226955,"pid":68664,"hostname":"Aidans-MacBook-Pro.local","msg":"❌ [API] REFRESH  did not run as expected!"}
+{"level":50,"time":1675312227447,"pid":68667,"hostname":"Aidans-MacBook-Pro.local","msg":"❌ [API] LOGIN FAILED did not run as expected!"}
+{"level":50,"time":1675312227909,"pid":68671,"hostname":"Aidans-MacBook-Pro.local","msg":"❌ [API] LOGIN FAILED USER NOT EXIST did not run as expected!"}
+{"level":50,"time":1675312308408,"pid":68773,"hostname":"Aidans-MacBook-Pro.local","msg":"❌ [API] LOGIN did not run as expected!"}
+{"level":50,"time":1675312308873,"pid":68779,"hostname":"Aidans-MacBook-Pro.local","msg":"❌ [API] REFRESH  did not run as expected!"}
+{"level":50,"time":1675312309346,"pid":68781,"hostname":"Aidans-MacBook-Pro.local","msg":"❌ [API] LOGIN FAILED did not run as expected!"}
+{"level":50,"time":1675312309863,"pid":68783,"hostname":"Aidans-MacBook-Pro.local","msg":"❌ [API] LOGIN FAILED USER NOT EXIST did not run as expected!"}
+{"level":50,"time":1675312381014,"pid":68865,"hostname":"Aidans-MacBook-Pro.local","msg":"❌ [API] LOGIN did not run as expected!"}
+{"level":50,"time":1675312413946,"pid":68920,"hostname":"Aidans-MacBook-Pro.local","msg":"❌ [API] LOGIN did not run as expected!"}
+{"level":50,"time":1675312430422,"pid":68968,"hostname":"Aidans-MacBook-Pro.local","msg":"❌ [API] LOGIN did not run as expected!"}
+{"level":50,"time":1675312856250,"pid":69537,"hostname":"Aidans-MacBook-Pro.local","msg":"❌ [API] LOGIN did not run as expected!"}
+{"level":50,"time":1675312888411,"pid":69604,"hostname":"Aidans-MacBook-Pro.local","msg":"❌ [API] LOGIN did not run as expected!"}
+{"level":50,"time":1675313037357,"pid":69819,"hostname":"Aidans-MacBook-Pro.local","msg":"❌ [API] LOGIN did not run as expected!"}
+{"level":50,"time":1675313159662,"pid":69917,"hostname":"Aidans-MacBook-Pro.local","msg":"❌ [API] LOGIN did not run as expected!"}
+{"level":50,"time":1675313284097,"pid":70028,"hostname":"Aidans-MacBook-Pro.local","msg":"❌ [API] LOGIN did not run as expected!"}
+{"level":50,"time":1675313683703,"pid":70270,"hostname":"Aidans-MacBook-Pro.local","msg":"❌ [API] LOGIN did not run as expected!"}
+{"level":50,"time":1675313711098,"pid":70314,"hostname":"Aidans-MacBook-Pro.local","msg":"❌ [API] LOGIN did not run as expected!"}
+{"level":50,"time":1675313999918,"pid":70559,"hostname":"Aidans-MacBook-Pro.local","msg":"❌ [API] LOGIN did not run as expected!"}
+{"level":50,"time":1675314049467,"pid":70662,"hostname":"Aidans-MacBook-Pro.local","msg":"❌ [API] LOGIN did not run as expected!"}
+{"level":50,"time":1675314109733,"pid":70730,"hostname":"Aidans-MacBook-Pro.local","msg":"❌ [API] LOGIN did not run as expected!"}
+{"level":50,"time":1675314120877,"pid":70769,"hostname":"Aidans-MacBook-Pro.local","msg":"❌ [API] LOGIN did not run as expected!"}
+{"level":50,"time":1675314253880,"pid":70914,"hostname":"Aidans-MacBook-Pro.local","msg":"❌ [API] LOGIN did not run as expected!"}
+{"level":50,"time":1675314332187,"pid":71011,"hostname":"Aidans-MacBook-Pro.local","msg":"❌ [API] LOGIN did not run as expected!"}
+{"level":50,"time":1675314349657,"pid":71046,"hostname":"Aidans-MacBook-Pro.local","msg":"❌ [API] LOGIN did not run as expected!"}
+{"level":50,"time":1675314436316,"pid":71157,"hostname":"Aidans-MacBook-Pro.local","msg":"❌ [API] LOGIN did not run as expected!"}
